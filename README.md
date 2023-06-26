@@ -6,7 +6,7 @@ Este proyecto busca solucionar el ejercicio dado de escribir un servidor web que
 
 ### Diagrama de clases 
 
-![class diagram](https://github.com/sebasporras14/ARSWloc/blob/master/images/clases.png)
+![class diagram](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/clases.png)
 
 
 ## Corriendo el proyecto
@@ -39,7 +39,7 @@ Http://LocalHost:35000/index.html"
 
 Se obtiene:
 
-![prueba HTML](https://github.com/sebasporras14/ARSWloc/blob/master/images/clases.png)
+![prueba HTML](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebahtml.jpg)
 
 ### prueba JPG o PNG
 
@@ -53,7 +53,8 @@ Http://LocalHost:35000/img2.png
 
 Se obtiene:
 
-![Prueba imagen](https://github.com/sebasporras14/ARSWloc/blob/master/images/clases.png)
+![Prueba imagen](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebaimg.jpg)
+![Prueba imagen](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebaimg2.png)
 
 ### prueba .JS
 
@@ -63,7 +64,7 @@ Http://LocalHost:35000/prueba.js"
 
 Se obtiene:
 
-![Prueba javaScript](https://github.com/sebasporras14/ARSWloc/blob/master/images/clases.png)
+![Prueba javaScript](![Prueba imagen](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebajs.jpg))
 
 
 ## Construido con 
