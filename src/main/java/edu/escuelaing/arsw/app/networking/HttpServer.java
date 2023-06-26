@@ -8,6 +8,12 @@ import java.nio.file.Paths;
 import java.io.*;
 
 public class HttpServer {
+    
+    /** 
+     * metodo principal que determina el puerto por el que se hara la conexion y mientras haya una solicitud invocara al metodo createReponse.
+     * @param args
+     * @throws IOException
+     */
     public static void main(String[] args) throws IOException {
         ServerSocket serverSocket = null;
         try {
@@ -50,6 +56,15 @@ public class HttpServer {
         serverSocket.close();
     }
 
+    
+    /** 
+     * este metodo selecciona lo requerido de la solicitud para obtener la direccion completa del archivo el cual se necesita retornar en el browser. Este hara las acciones indicadas con 
+     * los flujos de bytes de acuerdo al tipo de archivo que se solicite. 
+     * @param request String compuesto por la request generada al realizar la solicitud en el buscador
+     * @param out es un PrintWriter que te permite escribir datos en el flujo de salida del socket del cliente
+     * @param outv2 flujo de salida de bytes
+     * @throws IOException
+     */
     public static void createResponse(String request, PrintWriter out, OutputStream outv2) throws IOException {
         System.out.println("request to interpret: " + request);
         if (request.equals("")) {

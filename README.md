@@ -1,6 +1,6 @@
-# INTRODUCTION TO JAVA, MVN, AND GIT: LOC Counting
+# Web Server
 
-Este proyecto busca solucionar el ejercicio dado de escribir un servidor web que soporte multiples solicitudes seguidas(no concurrentes). El servidor web debera retornar los archivos solicitados incluyendo paginas html, imagenes y archivos .js
+Este proyecto busca solucionar el ejercicio dado de escribir un servidor web que soporte múltiples solicitudes seguidas(no concurrentes). El servidor web deberá retornar los archivos solicitados, incluyendo páginas HTML, imágenes y archivos .js.
 
 ## Diseño
 
