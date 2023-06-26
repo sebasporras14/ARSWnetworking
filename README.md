@@ -55,9 +55,9 @@ Http://LocalHost:35000/img2.png
 
 Se obtiene:
 
-![Prueba imagen](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebaimg.jpg)
+![Prueba imagen](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebaimg.png)
 -----
-![Prueba imagen](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebaimg2.png)
+![Prueba imagen2](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebaimg2.jpg)
 
 ### prueba .JS
 
