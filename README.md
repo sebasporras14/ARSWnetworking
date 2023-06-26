@@ -6,6 +6,8 @@ Este proyecto busca solucionar el ejercicio dado de escribir un servidor web que
 
 ### Diagrama de clases 
 
+Se basa en una única clase contenedora de la clase main que ejecutara toda la conexión e invocara el método crear respuesta que determinara la acción con el flujo de bytes de acuerdo al tipo de archivo.
+
 ![class diagram](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/clases.png)
 
 
@@ -54,6 +56,7 @@ Http://LocalHost:35000/img2.png
 Se obtiene:
 
 ![Prueba imagen](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebaimg.jpg)
+-----
 ![Prueba imagen](https://github.com/sebasporras14/ARSWnetworking/blob/master/imagenes/pruebaimg2.png)
 
 ### prueba .JS
